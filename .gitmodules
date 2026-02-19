@@ -1,0 +1,3 @@
+[submodule "cores/otter/OtterMCU"]
+	path = cores/otter/OtterMCU
+	url = git@github.com:rpeters54/OtterMCU.git
